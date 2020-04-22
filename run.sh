@@ -1,1 +1,1 @@
-./input/complaints.csv
+python3 ./input/complaints.csv
